@@ -44,4 +44,4 @@ This project uses Tableau to visualise key employment trends in the United Kingd
 ## 🔗 Dashboard Access
 
 You can explore the interactive dashboards here:  
-👉 [**View Tableau Dashboard**](#) *([Link](https://public.tableau.com/views/UKEmploymentDashboard_17416906959140/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))*
+👉 [**View Tableau Dashboard**](#) *([Link](https://public.tableau.com/views/UKEmploymentDashboard_17466161236730/Dashboard1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link))*
